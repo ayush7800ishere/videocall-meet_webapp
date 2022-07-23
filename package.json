@@ -1,7 +1,6 @@
 {
   "name": "videocall-meet_webapp",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -17,5 +16,10 @@
     "peerjs": "^1.4.6",
     "socket.io": "^4.5.1",
     "uuid": "^8.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//ayush7800ishere/videocall-meet_webapp"
+  },
+  "description": ""
 }
